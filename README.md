@@ -2,7 +2,7 @@
 
 Usecase:
 
-IVEYBOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
+IVEY BOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
 With this bot, you can monitor as many Telegram channels and groups as you want. Whenever the bot detects a token address in a post, it automatically extracts it and can forward it wherever you like.
 For example, you can send it to a buybot with an auto-buy function or to another Telegram group. The extraction and forwarding process takes just 0.5 seconds. The bot can extract token addresses from
 any link—whether it's a Solscan, Dexscreener, Photon link, or whatever—and it only sends the extracted address to your specified destination
