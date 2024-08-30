@@ -5,9 +5,15 @@ Usecase:
 IVEYBOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
 With this bot, you can monitor as many Telegram channels and groups as you want. Whenever the bot detects a token address in a post, it automatically extracts it and can forward it wherever you like.
 For example, you can send it to a buybot with an auto-buy function or to another Telegram group. The extraction and forwarding process takes just 0.5 seconds. The bot can extract token addresses from
-any link—whether it's a Solscan, Dexscreener, Photon link, or whatever—and it only sends the extracted address.
+any link—whether it's a Solscan, Dexscreener, Photon link, or whatever—and it only sends the extracted address to your specified destination
 
-The bot enables many automations and is hidden behind your normal Telegram user account. You can continue to use Telegram as normal with your user account, e.g. to chat etc.
+How is IVEY Bot different from regular Telegram bots?
+
+- Most regular Telegram bots aren't even allowed to join call channels or groups.
+
+- Regular Telegram bots can't interact with other bots, like trading bots. So, you wouldn't be able to forward a token address to a trading bot, for example.
+
+The bot enables many automations and is hidden behind your normal Telegram user account. Even while the bot is running, you can continue to use your Telegram account as usual.
 The bot also has a built-in database that logs every forwarded address. Before forwarding, it checks whether the address has already been sent before to avoid duplicates. 
 The bot doesn’t need a private key because it doesn’t actually execute any buys—it just forwards the address, like to Trojan or BullX.
 
