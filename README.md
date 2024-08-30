@@ -1,3 +1,5 @@
+![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
+
 Usecase:
 
 IVEYBOT is a very fast telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
@@ -10,6 +12,8 @@ The bot doesn’t need a private key because it doesn’t actually execute any b
 You can even specify certain users within a Telegram group, so the bot only monitors messages from those specific users. If you know there are certain users who make good calls, 
 you can target their posts specifically. The bot operates under the radar, disguised as your regular Telegram account since it works through your Telegram User API. So, no one will know it's actually a bot.
 The bot works for all major chains.
+
+![photo_2024-08-28_22-05-09](https://github.com/user-attachments/assets/db17673b-a1bd-4d76-8b68-5b4f8939006f)
 
 
 Setup Instructions
