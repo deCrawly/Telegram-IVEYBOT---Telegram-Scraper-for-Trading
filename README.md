@@ -38,5 +38,7 @@ You will receive a message from the official telegram account with an access cod
 You are now logged in, and ready to start scraping telegram channels.
 
 The bot costs 5 Sol, with lifetime support and updates. If you are interested you can contact me
+
 Telegram: https://t.me/zero_0x_eth
+
 Twitter: https://x.com/radiomanDev
