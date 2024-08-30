@@ -26,6 +26,7 @@ The bot works for all major chains.
 
 ![photo_2024-08-28_22-05-09](https://github.com/user-attachments/assets/db17673b-a1bd-4d76-8b68-5b4f8939006f)
 
+![iveyExample](https://github.com/user-attachments/assets/92773d80-943d-40fa-9477-74d8833ad26b)
 
 Setup Instructions
 
@@ -45,9 +46,9 @@ After you have logged in, select API Development Tool
 
 Fill out the form:
 
-App Title: <Anything can go here>
+App Title: (Anything can go here)
 
-Short Name: <Anything can go here>
+Short Name: (Anything can go here)
 
 URL: https://my.telegram.org
 
