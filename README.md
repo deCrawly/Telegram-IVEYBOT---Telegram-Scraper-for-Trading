@@ -3,6 +3,7 @@
 Usecase:
 
 IVEY BOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
+IVEY is like an extension for trading bots with auto-buy functions (Trojan, Bonkbot etc.)
 With this bot, you can monitor as many Telegram channels and groups in real-time as you want. Whenever the bot detects a token address in a post, it automatically extracts it and can forward it wherever you like. Conditions can also be defined through the keyword function to specify when the bot should forward and when it should not.
 For example, you can send it to a buybot with an auto-buy function or to another Telegram group. The extraction and forwarding process takes just 0.5 seconds. The bot can extract token addresses from
 any link—whether it's a Solscan, Dexscreener, Photon link, or whatever—and it only sends the extracted address to your specified destination
@@ -27,6 +28,16 @@ The bot operates under the radar, disguised as your regular Telegram account sin
 The bot works for all major chains.
 
 ![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
+
+To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot
+
+![trojan](https://github.com/user-attachments/assets/5af09371-1cfd-4ad6-a444-429133cb895e)
+
+Trojan is the most used telegram trading bot, I personally use it and like it very much.
+
+You can use my referal link to save trading fees.
+
+https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
 
 Setup Instructions
