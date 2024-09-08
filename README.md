@@ -24,17 +24,14 @@ The bot operates under the radar, disguised as your regular Telegram account sin
 
 The bot works for all major chains.
 
-![photo_2024-08-28_22-05-09](https://github.com/user-attachments/assets/db17673b-a1bd-4d76-8b68-5b4f8939006f)
+![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
 
-![iveyExample](https://github.com/user-attachments/assets/92773d80-943d-40fa-9477-74d8833ad26b)
 
 Setup Instructions
 
-Instructions on how to setup the Scraper
-
 Extract the .zip to your folder or desktop and you can launch it by executing IVEYbot.exe.
 
-Go to https://my.telegram.org
+Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api
 
 Enter your phone number
 
@@ -61,8 +58,6 @@ Launch the scraper, now you have to enter the api key, api hash and phone no. in
 You will receive a message from the official telegram account with an access code to login, enter that in the bot.
 
 You are now logged in, and ready to start scraping telegram channels.
-
-The bot costs 5 Sol, with lifetime support and updates. You also get a 1 month membership for my algo call channel. The algo calls are based on onchain activities from thousand of whales and alpha wallets.
 
 If you are interested you can contact me
 
