@@ -40,7 +40,7 @@ You can use my referal link to save trading fees.
 https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
 
-Setup Instructions
+What you need to start with IVEY? Lets get to the setup Instructions
 
 Extract the .zip to your folder or desktop and you can launch it by executing IVEYbot.exe.
 
