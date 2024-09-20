@@ -41,7 +41,7 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
 How to find ID's you want to monitor and scrape?
 
-![IDBot](https://github.com/user-attachments/assets/f73336d7-6f88-4eac-992e-49022ef0269f)
+![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
 
 
 What you need to start with IVEY? Lets get to the setup Instructions
