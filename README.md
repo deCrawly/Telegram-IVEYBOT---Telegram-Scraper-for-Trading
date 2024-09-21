@@ -104,7 +104,8 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
 <u>Running the Bot</u><br>
 - After configuring the channels and users, select Start Bot to begin monitoring.<br>
-- The bot will monitor the channels and users based on your configuration and forward messages as per your setup.<br><br>
+- The bot will monitor the channels and users based on your configuration and forward messages as per your setup.<br>
+- When bot is running and you want back in main menu press Ctrl+C<br><br>
 
 If you have questions you can contact me<br><br>
 
