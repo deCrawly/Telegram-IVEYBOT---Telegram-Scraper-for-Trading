@@ -29,7 +29,7 @@ The bot works for all major chains.
 
 ![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
 <br><br>
-To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot
+To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot<br><br>
 
 ![trojan](https://github.com/user-attachments/assets/5af09371-1cfd-4ad6-a444-429133cb895e)
 
@@ -43,7 +43,7 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 
 
 ![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
-<br><br>
+<br><br><br>
 
 **What you need to start with IVEY?**<br><br>
 
