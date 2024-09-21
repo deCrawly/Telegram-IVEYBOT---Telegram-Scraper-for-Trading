@@ -47,68 +47,68 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
 **What you need to start with IVEY?**
 
-Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api
-Enter your phone number
-Click next and the site will request an access code which you will have received in a message from the official telegram account to your telegram. 
-Use it to login
-After you have logged in, select API Development Tool
-<u>Fill out the form:</u>
-App Title: (Anything can go here)
-Short Name: (Anything can go here)
-URL: https://my.telegram.org
-Platform: Desktop
-Select Create Application, you will now be given an Api Id and an Api Hash, save it!
+Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api<br><br>
+Enter your phone number<br><br>
+Click next and the site will request an access code which you will have received in a message from the official telegram account to your telegram.<br><br>
+Use it to login<br><br>
+After you have logged in, select API Development Tool<br><br>
+<u>Fill out the form:</u><br><br>
+App Title: (Anything can go here)<br><br>
+Short Name: (Anything can go here)<br><br>
+URL: https://my.telegram.org<br><br>
+Platform: Desktop<br><br>
+Select Create Application, you will now be given an Api Id and an Api Hash, save it!<br><br>
 
 **IVEY Bot - User Guide**
 
-<u>Getting Started</u>
-Download the IVEYbot.zip from GitHub.
-Create a new directory on your computer.
-Unzip all files from the downloaded IVEYbot.zip into the new directory.
-Run IVEYbot.exe to start the application.
+<u>Getting Started</u><br><br>
+Download the IVEYbot.zip from GitHub.<br><br>
+Create a new directory on your computer.<br><br>
+Unzip all files from the downloaded IVEYbot.zip into the new directory.<br><br>
+Run IVEYbot.exe to start the application.<br><br>
 
-<u>Registration Process</u>
-After launching the application, select the Register option.
-Enter the required details:
-Email address
-API ID
-API Hash
-Phone number
-The system will generate a password for you. Save this password safely.
-The registration process will create a file called auth0.enc on your system.
-You will receive a message from the official telegram account with an access code to login, enter that in the bot.
+<u>Registration Process</u><br><br>
+After launching the application, select the Register option.<br><br>
+Enter the required details:<br><br>
+Email address<br><br>
+API ID<br><br>
+API Hash<br><br>
+Phone number<br><br>
+The system will generate a password for you. Save this password safely.<br><br>
+The registration process will create a file called auth0.enc on your system.<br><br>
+You will receive a message from the official telegram account with an access code to login, enter that in the bot.<br><br>
 
-<u>Important: Backup the auth0.enc file</u>
-auth0.enc acts as your login file. Without this file, you won’t be able to log in to the IVEY Bot.
-After registering, copy the auth0.enc file to a secure location as a backup.
-If you want to run IVEY Bot on a different or new computer, you will need this auth0.enc file to log in.
+<u>Important: Backup the auth0.enc file</u><br><br>
+auth0.enc acts as your login file. Without this file, you won’t be able to log in to the IVEY Bot.<br><br>
+After registering, copy the auth0.enc file to a secure location as a backup.<br><br>
+If you want to run IVEY Bot on a different or new computer, you will need this auth0.enc file to log in.<br><br>
 
-<u>Login Process</u>
-When you run the application next time, it will automatically detect the auth0.enc file.
-If the file is present, the application will proceed to log you in.
-If the file is missing, you will need to re-register or restore the auth0.enc from your backup.
+<u>Login Process</u><br><br>
+When you run the application next time, it will automatically detect the auth0.enc file.<br><br>
+If the file is present, the application will proceed to log you in.<br><br>
+If the file is missing, you will need to re-register or restore the auth0.enc from your backup.<br><br>
 
-<u>Using IVEY Bot</u>
-Once logged in, you will see the main menu with the following options:
+<u>Using IVEY Bot</u><br><br>
+Once logged in, you will see the main menu with the following options:<br><br>
 
-Add Channel or Group – Start monitoring a new channel or group.
-Remove Channel or Group – Stop monitoring an existing channel or group.
-Monitor Specific Users in a Group – Choose specific users in a group to monitor.
-Remove Specific Users – Stop monitoring specific users.
-Set Bot or Channel for Forwarding – Choose where to forward the token address.
-Define Keywords – Set up keywords to track in the monitored channels.
-Activate/Deactivate Keywords – Enable or disable keyword tracking for specific channels.
-Start Bot – Launch the bot to start monitoring the selected channels and users.
-Show Current Configuration – View the current bot configuration and settings.
-Subscription for IVEY Bot – View subscription details.
-Access to #ORACLE – Learn more about the #ORACLE system.
+Add Channel or Group – Start monitoring a new channel or group.<br><br>
+Remove Channel or Group – Stop monitoring an existing channel or group.<br><br>
+Monitor Specific Users in a Group – Choose specific users in a group to monitor.<br><br>
+Remove Specific Users – Stop monitoring specific users.<br><br>
+Set Bot or Channel for Forwarding – Choose where to forward the token address.<br><br>
+Define Keywords – Set up keywords to track in the monitored channels.<br><br>
+Activate/Deactivate Keywords – Enable or disable keyword tracking for specific channels.<br><br>
+Start Bot – Launch the bot to start monitoring the selected channels and users.<br><br>
+Show Current Configuration – View the current bot configuration and settings.<br><br>
+Subscription for IVEY Bot – View subscription details.<br><br>
+Access to #ORACLE – Learn more about the #ORACLE system.<br><br>
 
-<u>Running the Bot</u>
-After configuring the channels and users, select Start Bot to begin monitoring.
-The bot will monitor the channels and users based on your configuration and forward messages as per your setup.
+<u>Running the Bot</u><br><br>
+After configuring the channels and users, select Start Bot to begin monitoring.<br><br>
+The bot will monitor the channels and users based on your configuration and forward messages as per your setup.<br><br>
 
-If you have questions you can contact me
+If you have questions you can contact me<br><br>
 
-Telegram: https://t.me/zero_0x_eth
+Telegram: https://t.me/zero_0x_eth<br><br>
 
-Twitter: https://x.com/radiomanDev
+Twitter: https://x.com/radiomanDev<br><br>
