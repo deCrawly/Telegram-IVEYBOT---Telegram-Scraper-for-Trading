@@ -37,13 +37,13 @@ Trojan is the most used telegram trading bot, I personally use it and like it ve
 
 You can use my referal link to save trading fees.
 
-https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br><br>
+https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 
 **How to find ID's you want to monitor and scrape?**<br><br>
 
 
 ![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
-
+<br><br>
 
 **What you need to start with IVEY?**<br><br>
 
