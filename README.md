@@ -50,7 +50,7 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth
 - Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api<br>
 - Enter your phone number<br>
 - Click next and the site will request an access code which you will have received in a message from the official telegram account to your telegram.<br>
-- Use it to login<br><br>
+- Use it to login<br>
 - After you have logged in, select API Development Tool<br>
 - <u>Fill out the form:</u><br>
 - App Title: (Anything can go here)<br>
@@ -89,7 +89,7 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth
 - If the file is missing, you will need to re-register or restore the auth0.enc from your backup.<br><br>
 
 <u>Using IVEY Bot</u><br>
-- Once logged in, you will see the main menu with the following options:<br><br>
+- Once logged in, you will see the main menu with the following options:<br>
 - Add Channel or Group – Start monitoring a new channel or group.<br>
 - Remove Channel or Group – Stop monitoring an existing channel or group.<br>
 - Monitor Specific Users in a Group – Choose specific users in a group to monitor.<br>
