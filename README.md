@@ -1,6 +1,6 @@
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
-Usecase:
+**Usecase:**
 
 IVEY BOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
 IVEY is like an extension for trading bots with auto-buy functions (Trojan, Bonkbot etc.)
@@ -8,7 +8,7 @@ With this bot, you can monitor as many Telegram channels and groups in real-time
 For example, you can send it to a buybot with an auto-buy function or to another Telegram group. The extraction and forwarding process takes just 0.5 seconds. The bot can extract token addresses from
 any link—whether it's a Solscan, Dexscreener, Photon link, or whatever—and it only sends the extracted address to your specified destination
 
-How is IVEY Bot different from regular Telegram bots?
+**How is IVEY Bot different from regular Telegram bots?**
 
 - Most regular Telegram bots aren't even allowed to join call channels or groups.
 
@@ -39,44 +39,75 @@ You can use my referal link to save trading fees.
 
 https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
-How to find ID's you want to monitor and scrape?
+**How to find ID's you want to monitor and scrape?**
+
 
 ![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
 
 
-What you need to start with IVEY? Lets get to the setup Instructions
-
-Extract the .zip to your folder or desktop and you can launch it by executing IVEYbot.exe.
+**What you need to start with IVEY?**
 
 Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api
-
 Enter your phone number
-
 Click next and the site will request an access code which you will have received in a message from the official telegram account to your telegram. 
-
 Use it to login
-
 After you have logged in, select API Development Tool
-
-Fill out the form:
-
+<u>Fill out the form:</u>
 App Title: (Anything can go here)
-
 Short Name: (Anything can go here)
-
 URL: https://my.telegram.org
-
 Platform: Desktop
+Select Create Application, you will now be given an Api Id and an Api Hash, save it!
 
-Select Create Application, you will now be given an Api Id and an Api Hash. 
+**IVEY Bot - User Guide**
 
-Launch the scraper, now you have to enter the api key, api hash and phone no. into the bot to establish a connection with your telegram user api account
+<u>Getting Started</u>
+Download the IVEYbot.zip from GitHub.
+Create a new directory on your computer.
+Unzip all files from the downloaded IVEYbot.zip into the new directory.
+Run IVEYbot.exe to start the application.
 
+<u>Registration Process</u>
+After launching the application, select the Register option.
+Enter the required details:
+Email address
+API ID
+API Hash
+Phone number
+The system will generate a password for you. Save this password safely.
+The registration process will create a file called auth0.enc on your system.
 You will receive a message from the official telegram account with an access code to login, enter that in the bot.
 
-You are now logged in, and ready to start scraping telegram channels.
+<u>Important: Backup the auth0.enc file</u>
+auth0.enc acts as your login file. Without this file, you won’t be able to log in to the IVEY Bot.
+After registering, copy the auth0.enc file to a secure location as a backup.
+If you want to run IVEY Bot on a different or new computer, you will need this auth0.enc file to log in.
 
-If you are interested you can contact me
+<u>Login Process</u>
+When you run the application next time, it will automatically detect the auth0.enc file.
+If the file is present, the application will proceed to log you in.
+If the file is missing, you will need to re-register or restore the auth0.enc from your backup.
+
+<u>Using IVEY Bot</u>
+Once logged in, you will see the main menu with the following options:
+
+Add Channel or Group – Start monitoring a new channel or group.
+Remove Channel or Group – Stop monitoring an existing channel or group.
+Monitor Specific Users in a Group – Choose specific users in a group to monitor.
+Remove Specific Users – Stop monitoring specific users.
+Set Bot or Channel for Forwarding – Choose where to forward the token address.
+Define Keywords – Set up keywords to track in the monitored channels.
+Activate/Deactivate Keywords – Enable or disable keyword tracking for specific channels.
+Start Bot – Launch the bot to start monitoring the selected channels and users.
+Show Current Configuration – View the current bot configuration and settings.
+Subscription for IVEY Bot – View subscription details.
+Access to #ORACLE – Learn more about the #ORACLE system.
+
+<u>Running the Bot</u>
+After configuring the channels and users, select Start Bot to begin monitoring.
+The bot will monitor the channels and users based on your configuration and forward messages as per your setup.
+
+If you have questions you can contact me
 
 Telegram: https://t.me/zero_0x_eth
 
