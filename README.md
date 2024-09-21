@@ -28,8 +28,8 @@ The bot operates under the radar, disguised as your regular Telegram account sin
 The bot works for all major chains.
 
 ![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
-<br><br>
-To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot<br><br>
+<br><br><br><br>
+**To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot**<br>
 
 ![trojan](https://github.com/user-attachments/assets/5af09371-1cfd-4ad6-a444-429133cb895e)
 
