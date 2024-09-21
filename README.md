@@ -47,8 +47,8 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth
 
 **What you need to start with IVEY?**
 
-Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api<br><br>
-Enter your phone number<br><br>
+Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api<br>
+Enter your phone number<br>
 Click next and the site will request an access code which you will have received in a message from the official telegram account to your telegram.<br><br>
 Use it to login<br><br>
 After you have logged in, select API Development Tool<br><br>
