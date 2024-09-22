@@ -34,21 +34,6 @@ The bot works for all major chains.
 
 ![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
 <br><br><br><br>
-**To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot**<br>
-
-![trojan](https://github.com/user-attachments/assets/5af09371-1cfd-4ad6-a444-429133cb895e)
-
-Trojan is the most used telegram trading bot, I personally use it and like it very much.
-
-You can use my referal link to save trading fees.
-
-https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
-
-**How to find ID's you want to monitor and scrape?**<br><br>
-
-
-![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
-<br><br><br>
 
 **What you need to start with IVEY?**<br><br>
 
@@ -75,10 +60,10 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 <u>Registration Process</u><br>
 - After launching the application, select the Register option.<br>
 - Enter the required details:<br>
-- Email address<br>
-- API ID<br>
-- API Hash<br>
-- Phone number<br>
+  - Email address<br>
+  - API ID<br>
+  - API Hash<br>
+  - Phone number<br>
 - The system will generate a password for you. Save this password safely.<br>
 - The registration process will create a file called auth0.enc on your system.<br>
 - You will receive a message from the official telegram account with an access code to login, enter that in the bot.<br><br>
@@ -106,6 +91,22 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 - After configuring the channels and users, select Start Bot to begin monitoring.<br>
 - The bot will monitor the channels and users based on your configuration and forward messages as per your setup.<br>
 - When bot is running and you want back in main menu press Ctrl+C<br><br>
+
+**To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot**<br>
+
+![trojan](https://github.com/user-attachments/assets/5af09371-1cfd-4ad6-a444-429133cb895e)
+
+Trojan is the most used telegram trading bot, I personally use it and like it very much.
+
+You can use my referal link to save trading fees.
+
+https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
+
+**How to find ID's you want to monitor and scrape?**<br><br>
+
+
+![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
+<br><br><br>
 
 **Configuration of channel, groups, Buybots and keywords**<br><br>
 
