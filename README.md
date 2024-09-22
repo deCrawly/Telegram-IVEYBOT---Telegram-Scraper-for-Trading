@@ -84,11 +84,6 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 - After registering, copy the auth0.enc file to a secure location as a backup.<br>
 - If you want to run IVEY Bot on a different or new computer, you will need this auth0.enc file to log in.<br><br>
 
-<u>Login Process</u><br>
-- When you run the application next time, it will automatically detect the auth0.enc file.<br>
-- If the file is present, the application will proceed to log you in.<br>
-- If the file is missing, you will need to re-register or restore the auth0.enc from your backup.<br><br>
-
 <u>Using IVEY Bot</u><br>
 - Once logged in, you will see the main menu with the following options:<br>
 - Add Channel or Group – Start monitoring a new channel or group.<br>
