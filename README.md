@@ -15,6 +15,10 @@ You can send scraped token addresses to 2 different buy bots at the same time.
 
 - Regular Telegram bots can't interact with other bots, like trading bots. So, you wouldn't be able to forward a token address to a trading bot, for example.
 
+- You can monitor individual users within a Telegram group, and if they post a token address, it will be forwarded directly to a buy bot.
+
+- You can define keywords that must appear or must not appear in the message for the token address to be forwarded to a buy bot.<br><br>
+
 The bot enables many automations and is hidden behind your normal Telegram user account. Even while the bot is running, you can continue to use your Telegram account as usual.
 The bot also has a built-in database that logs every forwarded address. Before forwarding, it checks whether the address has already been sent before to avoid duplicates. 
 The bot doesn’t need a private key because it doesn’t actually execute any buys—it just forwards the address, like to Trojan or BullX.
