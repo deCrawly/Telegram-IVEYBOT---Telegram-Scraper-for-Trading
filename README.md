@@ -1,5 +1,7 @@
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
+[IVEY Bot youtube channel](www.youtube.com/@IVEYbot)
+
 **Usecase:**
 
 IVEY BOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
