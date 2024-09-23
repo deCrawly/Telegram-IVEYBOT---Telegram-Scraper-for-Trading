@@ -119,7 +119,8 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 
 If you have entity problems check this
 
-![entity problem](https://github.com/user-attachments/assets/62b64c5c-bdfd-47e7-ad14-4a20d3fd2581)
+![entity problem](https://github.com/user-attachments/assets/49b07329-fad0-4bb0-993b-6dec1411dd1a)
+
 <br><br>
 
 If you have questions you can contact me<br><br>
