@@ -1,6 +1,6 @@
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
-[IVEY Bot youtube channel](www.youtube.com/@IVEYbot)
+[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
 
 **Usecase:**
 
@@ -53,7 +53,7 @@ The bot works for all major chains.
 
 **IVEY Bot - User Guide**<br><br>
 
-[IVEY Bot tutorial Videos on youtube](www.youtube.com/@IVEYbot)
+[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
 
 <u>Getting Started</u><br>
 - Download the IVEYbot.zip from GitHub.<br>
@@ -129,4 +129,4 @@ Telegram: https://t.me/zero_0x_eth<br><br>
 
 Twitter: https://x.com/radiomanDev<br><br>
 
-[IVEY Bot tutorial Videos on youtube](www.youtube.com/@IVEYbot)
+[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
