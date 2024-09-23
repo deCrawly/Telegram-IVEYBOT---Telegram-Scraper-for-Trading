@@ -51,6 +51,8 @@ The bot works for all major chains.
 
 **IVEY Bot - User Guide**<br><br>
 
+[IVEY Bot tutorial Videos on youtube](www.youtube.com/@IVEYbot)
+
 <u>Getting Started</u><br>
 - Download the IVEYbot.zip from GitHub.<br>
 - Create a new directory on your computer.<br>
@@ -118,3 +120,5 @@ If you have questions you can contact me<br><br>
 Telegram: https://t.me/zero_0x_eth<br><br>
 
 Twitter: https://x.com/radiomanDev<br><br>
+
+[IVEY Bot tutorial Videos on youtube](www.youtube.com/@IVEYbot)
