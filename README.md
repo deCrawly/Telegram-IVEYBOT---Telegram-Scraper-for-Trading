@@ -1,5 +1,6 @@
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
+**Last IMPROVEMENTS (12/18/2024) in VERSION 1.18: extract and forwarding now in under 250ms**
 
 **Telegram Bots with Auto Trade Function - perfect for IVEY Bot:**
 
