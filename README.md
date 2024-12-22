@@ -5,10 +5,12 @@
 
 NOVA (fastest Bot actually):
 Telegram BOT: https://t.me/TradeonNovaBot?start=r-8PPF31
+
 https://x.com/TradeonNova
 
 Trojan:
 Telegram BOT: https://t.me/helenus_trojanbot?start=r-zero_0x_eth
+
 https://x.com/TrojanOnSolana
 
 I would be happy if you use my referral link, you will also save trading fees.
