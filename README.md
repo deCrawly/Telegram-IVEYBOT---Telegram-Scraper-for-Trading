@@ -1,9 +1,7 @@
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
-[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
 
-
-**Bots with Auto Trade Function - perfect for IVEY Bot:**
+**Telegram Bots with Auto Trade Function - perfect for IVEY Bot:**
 
 NOVA (fastest Bot actually):
 Telegram BOT: https://t.me/TradeonNovaBot?start=r-8PPF31
@@ -17,6 +15,8 @@ I would be happy if you use my referral link, you will also save trading fees.
 
 
 **Usecase:**
+
+[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
 
 IVEY BOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
 IVEY is like an extension for trading bots with auto-buy functions (Trojan, Bonkbot etc.)
