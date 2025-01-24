@@ -1,16 +1,42 @@
+<h1 align="center">
+  TELEGRAM SCRAPER FOR ONCHAIN TRADING<br>
+  STAY ONE STEP AHEAD
+</h1>
+
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
-**Last IMPROVEMENTS (12/18/2024) in VERSION 1.18: extract and forwarding now in under 250ms**
+## 📈 Improvements
 
-**Telegram Bots with Auto Trade Function - perfect for IVEY Bot:**
+### **01/24/2025 - Version 1.20**
 
-NOVA (fastest Bot actually):
-Telegram BOT: https://t.me/TradeonNovaBot?start=r-8PPF31
+**New Features:**
 
-Trojan:
-Telegram BOT: https://t.me/helenus_trojanbot?start=r-zero_0x_eth
+- 🆕 **Integrated DEX Data Options:** Enhanced data integration for decentralized exchanges.
+- 🆕 **Integrated "Token Age" Options:** New options for analyzing token age.
+- 🆕 **Integrated "Only Pumpfun" Option:** Filters exclusively for pumping tokens.
+- 🛠️ **Improved Clarity in `config.json`:** Improved clarity and structure of the configuration file.
 
-I would be happy if you use my referral link, you will also save trading fees.
+### **12/18/2024 - Version 1.18**
+
+- 🚀 **Improved Forwarding Speed (250ms):** Increased forwarding speed for faster data processing.
+- 🛠️ **Improved Extraction Functions:** Optimized extraction functions for more precise data analysis.
+
+
+
+<h1## 🤖 Recommended Telegram Bots with Auto Trade Funtction - Perfect for IVEY Bot:</h1>
+
+### **NOVA** *(The Fastest Bot Currently)*
+
+[🔗 **Start NOVA Bot**](https://t.me/TradeonNovaBot?start=r-8PPF31)
+
+### **Trojan**
+
+[🔗 **Start Trojan Bot**](https://t.me/helenus_trojanbot?start=r-zero_0x_eth)
+
+
+## 🌟 Support the Project
+
+I would greatly appreciate it if you use my referral links when starting the bots. Not only will you benefit from reduced trading fees.
 
 
 **Usecase:**
@@ -125,9 +151,13 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 ![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
 <br><br><br>
 
-**Configuration of channel, groups, Buybots and keywords**<br><br>
+**Configuration of config.json - forward to 2 buybots**<br><br>
+Use Visual Studio Codes to open .json files (freeware)
+https://code.visualstudio.com/
 
-![configuration](https://github.com/user-attachments/assets/4f803bb4-eb46-4dc3-9511-cbaf62cf5174)
+![grafik](https://github.com/user-attachments/assets/702fd40f-e21e-460e-a101-859e0a3e17bf)
+
+
 <br><br>
 
 If you have entity problems check this
