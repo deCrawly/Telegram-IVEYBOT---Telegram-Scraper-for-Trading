@@ -21,7 +21,7 @@
 - 🚀 **Improved Forwarding Speed (250ms):** Increased forwarding speed for faster data processing.
 - 🛠️ **Improved Extraction Functions:** Optimized extraction functions for more precise data analysis.
 
-
+---
 
 🤖 Recommended Telegram Bots with Auto Trade Funtction - Perfect for IVEY Bot:</h1>
 
@@ -33,6 +33,7 @@
 
 [🔗 **Start Trojan Bot**](https://t.me/helenus_trojanbot?start=r-zero_0x_eth)
 
+---
 
 ## 🌟 Support the Project
 
@@ -46,6 +47,7 @@ Thank you for your support! 🙏
 
 [IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
 
+---
 
 ## **IVEY BOT: Advanced Telegram Scraper for Automated On-Chain Trading**
 
@@ -106,79 +108,103 @@ Thank you for your support! 🙏
 
 IVEY BOT empowers you with advanced automation tools to enhance your on-chain trading activities. Its seamless integration with your Telegram account, combined with its powerful features, ensures that you can monitor and act on trading opportunities swiftly and efficiently.
 
-
+---
 
 ![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
 <br><br>
 
-**What you need to start with IVEY?**<br><br>
+---
 
-- Go to https://my.telegram.org to get your api_id and api_hash for your personal telegram user api<br>
-- Enter your phone number<br>
-- Click next and the site will request an access code which you will have received in a message from the official telegram account to your telegram.<br>
-- Use it to login<br>
-- After you have logged in, select API Development Tool<br>
-- <u>Fill out the form:</u><br>
-- App Title: (Anything can go here)<br>
-- Short Name: (Anything can go here)<br>
-- URL: https://my.telegram.org<br>
-- Platform: Desktop<br>
-- Select Create Application, you will now be given an Api Id and an Api Hash, save it!<br><br>
+## IVEY Bot - User Guide
 
-**IVEY Bot - User Guide**<br><br>
+### 🎥 **IVEY Bot YouTube Channel**
 
-[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
+[Visit our YouTube Channel](https://www.youtube.com/channel/your-channel-link) *(Replace with your actual YouTube channel link)*
 
-<u>Getting Started</u><br>
-- Download the IVEYbot.zip from GitHub.<br>
-- Create a new directory on your computer.<br>
-- Unzip all files from the downloaded IVEYbot.zip into the new directory.<br>
-- Run IVEYbot.exe to start the application.<br><br>
+---
 
-<u>Registration Process</u><br>
-- After launching the application, select the Register option.<br>
-- Enter the required details:<br>
-  - Email address<br>
-  - API ID<br>
-  - API Hash<br>
-  - Phone number<br>
-- The system will generate a password for you. Save this password safely.<br>
-- The registration process will create a file called auth0.enc on your system.<br>
-- You will receive a message from the official telegram account with an access code to login, enter that in the bot.<br><br>
+### 🚀 **Getting Started**
 
-<u>Important: Backup the auth0.enc file</u><br>
-- auth0.enc acts as your login file. Without this file, you won’t be able to log in to the IVEY Bot.<br>
-- After registering, copy the auth0.enc file to a secure location as a backup.<br>
-- If you want to run IVEY Bot on a different or new computer, you will need this auth0.enc file to log in.<br><br>
+1. **Download IVEYbot:**
+   - Download the `IVEYbot.zip` from [GitHub](https://github.com/your-repository/IVEYbot.zip) *(Replace with your actual GitHub link)*.
 
-<u>Using IVEY Bot</u><br>
-- Once logged in, you will see the main menu with the following options:<br>
-- Add Channel or Group – Start monitoring a new channel or group.<br>
-- Remove Channel or Group – Stop monitoring an existing channel or group.<br>
-- Monitor Specific Users in a Group – Choose specific users in a group to monitor.<br>
-- Remove Specific Users – Stop monitoring specific users.<br>
-- Set Bot or Channel for Forwarding – Choose where to forward the token address, to a maximum of 2 buy bots.<br>
-- Define Keywords – Define keywords that must appear in the same message as the token address for it to be forwarded to your buy bot..<br>
-- Activate/Deactivate Keywords – Enable or disable keyword tracking for specific channels.<br>
-- Start Bot – Launch the bot to start monitoring the selected channels and users.<br>
-- Show Current Configuration – View the current bot configuration and settings.<br>
-- Subscription for IVEY Bot – View subscription details.<br>
-- Access to #ORACLE – Learn more about the #ORACLE system.<br><br>
+2. **Set Up the Application:**
+   - **Create a New Directory:** Choose a location on your computer and create a new folder.
+   - **Unzip Files:** Extract all files from the downloaded `IVEYbot.zip` into the newly created directory.
+   - **Run the Application:** Execute `IVEYbot.exe` to start the application.
 
-<u>Running the Bot</u><br>
-- After configuring the channels and users, select Start Bot to begin monitoring.<br>
-- The bot will monitor the channels and users based on your configuration and forward messages as per your setup.<br>
-- When bot is running and you want back in main menu press Ctrl+C<br><br>
+---
+
+### 📝 **Registration Process**
+
+1. **Launch the Application:**
+   - After opening `IVEYbot.exe`, select the **Register** option.
+
+2. **Enter Required Details:**
+   - **Email Address**
+   - **API ID**
+   - **API Hash**
+   - **Phone Number**
+
+3. **Generate and Save Password:**
+   - The system will generate a password for you. **Save this password safely**.
+
+4. **Authentication File:**
+   - The registration process will create a file named `auth0.enc` on your system.
+
+5. **Receive Access Code:**
+   - You will receive a message from the official Telegram account with an access code. **Enter this code in the bot** to complete the registration.
+
+---
+
+### 🔒 **Important: Backup the `auth0.enc` File**
+
+- **Purpose:**  
+  The `auth0.enc` file acts as your login credential. Without it, you won’t be able to log in to the IVEY Bot.
+
+- **Backup Steps:**
+  1. **After Registration:** Locate the `auth0.enc` file on your system.
+  2. **Copy to Secure Location:** Save a copy of this file in a secure and accessible location.
+  3. **Using a New Computer:** If you need to run IVEY Bot on a different or new computer, you will require the `auth0.enc` file to log in.
+
+---
+
+### 🛠️ **Using IVEY Bot**
+
+Once logged in, you will see the main menu with the following options:
+
+- **Add Channel or Group:** Start monitoring a new Telegram channel or group.
+- **Remove Channel or Group:** Stop monitoring an existing channel or group.
+- **Monitor Specific Users in a Group:** Select specific users within a group to monitor.
+- **Remove Specific Users:** Stop monitoring selected users.
+- **Set Bot or Channel for Forwarding:** Choose up to **2 buy bots** where token addresses will be forwarded.
+- **Define Keywords:** Specify keywords that must appear in the same message as the token address for it to be forwarded to your buy bot.
+- **Activate/Deactivate Keywords:** Enable or disable keyword tracking for specific channels.
+- **Start Bot:** Launch the bot to begin monitoring the selected channels and users.
+- **Show Current Configuration:** View the current bot settings and configurations.
+- **Subscription for IVEY Bot:** Check your subscription details.
+- **Access to #ORACLE:** Learn more about the #ORACLE system.
+
+---
+
+### 🔄 **Running the Bot**
+
+1. **Start Monitoring:**
+   - After configuring your channels and users, select **Start Bot** to begin monitoring.
+
+2. **Bot Operation:**
+   - The bot will monitor the configured channels and users, forwarding messages according to your setup.
+
+3. **Return to Main Menu:**
+   - While the bot is running, press `Ctrl + C` to stop the bot and return to the main menu.
+
+---
 
 **To buy automated you have to make some settings in your trading bot, here is an example for Trojan Telegram Trading bot**<br>
 
 ![trojan](https://github.com/user-attachments/assets/5af09371-1cfd-4ad6-a444-429133cb895e)
 
-Trojan is the most used telegram trading bot, I personally use it and like it very much.
-
-You can use my referal link to save trading fees.
-
-https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
+---
 
 **How to find ID's you want to monitor and scrape?**<br><br>
 
@@ -186,13 +212,15 @@ https://t.me/solana_trojanbot?start=r-zero_0x_eth<br><br><br><br><br>
 ![warnungen](https://github.com/user-attachments/assets/38a346f9-ca89-46e4-add1-e42f8b2f6e97)
 <br><br><br>
 
+---
+
 **Configuration of config.json - forward to 2 buybots**<br><br>
 Use Visual Studio Codes to open .json files (freeware)
 https://code.visualstudio.com/
 
 ![grafik](https://github.com/user-attachments/assets/702fd40f-e21e-460e-a101-859e0a3e17bf)
 
-
+---
 <br><br>
 
 If you have entity problems check this
