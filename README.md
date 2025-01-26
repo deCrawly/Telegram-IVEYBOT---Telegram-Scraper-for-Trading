@@ -23,7 +23,7 @@
 
 
 
-<h1## 🤖 Recommended Telegram Bots with Auto Trade Funtction - Perfect for IVEY Bot:</h1>
+🤖 Recommended Telegram Bots with Auto Trade Funtction - Perfect for IVEY Bot:</h1>
 
 ### **NOVA** *(The Fastest Bot Currently)*
 
@@ -36,42 +36,77 @@
 
 ## 🌟 Support the Project
 
-I would greatly appreciate it if you use my referral links when starting the bots. Not only will you benefit from reduced trading fees.
+I would greatly appreciate it if you use my referral links when starting the bots. Not only will you benefit from reduced trading fees, but you'll also be supporting the development and maintenance of these tools.
 
+- **NOVA Referral Link:** [Trade on NOVA](https://t.me/TradeonNovaBot?start=r-8PPF31)
+- **Trojan Referral Link:** [Start Trojan](https://t.me/helenus_trojanbot?start=r-zero_0x_eth)
 
-**Usecase:**
+Thank you for your support! 🙏
+
 
 [IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
 
-IVEY BOT is a very fast CLI telegram scraper behind your normal telegram user account with forwarding functions to automate your onchain trading.
-IVEY is like an extension for trading bots with auto-buy functions (Trojan, Bonkbot etc.)
-With this bot, you can monitor as many Telegram channels and groups in real-time as you want. Whenever the bot detects a token address in a post, it automatically extracts it and can forward it wherever you like. Conditions can also be defined through the keyword function to specify when the bot should forward and when it should not.
-For example, you can send it to a buybot with an auto-buy function or to another Telegram group. The extraction and forwarding process takes just 0.5 seconds. The bot can extract token addresses from
-any link—whether it's a Solscan, Dexscreener, Photon link, or whatever—and it only sends the extracted address to your specified destination.
-You can send scraped token addresses to 2 different buy bots at the same time.
 
-**How is IVEY Bot different from regular Telegram bots?**
+## **IVEY BOT: Advanced Telegram Scraper for Automated On-Chain Trading**
 
-- Most regular Telegram bots aren't even allowed to join call channels or groups.
+**IVEY BOT** is a lightning-fast CLI Telegram scraper that operates seamlessly behind your regular Telegram user account. With powerful forwarding functionalities, it automates your on-chain trading processes.
 
-- Regular Telegram bots can't interact with other bots, like trading bots. So, you wouldn't be able to forward a token address to a trading bot, for example.
+### 🚀 **Key Features**
 
-- You can monitor individual users within a Telegram group, and if they post a token address, it will be forwarded directly to a buy bot.
+- **Real-Time Monitoring:**  
+  Monitor unlimited Telegram channels and groups simultaneously. IVEY BOT detects token addresses in posts, extracts them instantly, and forwards them to your desired destinations.
 
-- You can define keywords that must appear or must not appear in the message for the token address to be forwarded to a buy bot.<br><br>
+- **Conditional Forwarding:**  
+  Utilize the keyword function to set specific conditions for forwarding. Define when the bot should or shouldn't forward a token address based on the presence or absence of certain keywords.
 
-The bot enables many automations and is hidden behind your normal Telegram user account. Even while the bot is running, you can continue to use your Telegram account as usual.
-The bot also has a built-in database that logs every forwarded address. Before forwarding, it checks whether the address has already been sent before to avoid duplicates. 
-The bot doesn’t need a private key because it doesn’t actually execute any buys—it just forwards the address, like to Trojan or BullX.
+- **Rapid Processing:**  
+  The extraction and forwarding process occurs in just half a second, ensuring you stay ahead in the fast-paced trading environment.
 
-You can even specify certain users within a Telegram group, so the bot only monitors messages from those specific users. If you know there are certain users who make good calls, 
-you can target their posts specifically. 
+- **Versatile Link Support:**  
+  Extract token addresses from any type of link, including Solscan, Dexscreener, Photon, and more. The bot forwards only the extracted address to your specified destination.
 
-The bot also has a keyword function. This allows defining keywords that must be present in the same message as the token address for it to be forwarded to your buy bot. The function also allows defining keywords that must not be present in the message.
+- **Multi-Bot Support:**  
+  Forward scraped token addresses to two different buy bots simultaneously, enhancing your trading strategy's effectiveness.
 
-The bot operates under the radar, disguised as your regular Telegram account since it works through your Telegram User API. So, no one will know it's actually a bot.
+### 🔍 **How IVEY BOT Differs from Regular Telegram Bots**
 
-The bot works for all major chains.
+- **Enhanced Access:**  
+  Unlike regular Telegram bots, IVEY BOT can join both channels and groups, providing comprehensive monitoring capabilities.
+
+- **Bot Interaction:**  
+  IVEY BOT can interact with other bots, such as trading bots, allowing seamless forwarding of token addresses to execute trades.
+
+- **User-Specific Monitoring:**  
+  Monitor individual users within a Telegram group. If selected users post a token address, it gets forwarded directly to your buy bot.
+
+- **Advanced Keyword Filtering:**  
+  Define specific keywords that must appear or must not appear in messages for token addresses to be forwarded, ensuring precise and relevant forwarding.
+
+### 🛠️ **Additional Advantages**
+
+- **Hidden Operation:**  
+  IVEY BOT operates discreetly behind your regular Telegram account via the Telegram User API. You can continue using your Telegram account normally while the bot runs in the background.
+
+- **Duplicate Prevention:**  
+  Featuring a built-in database, IVEY BOT logs every forwarded address and checks for duplicates before forwarding, ensuring efficient and organized data management.
+
+- **No Private Key Required:**  
+  IVEY BOT does not require a private key since it doesn't execute any buy orders directly. It simply forwards token addresses to other bots like NOVA; Trojan or BullX.
+
+- **Selective User Monitoring:**  
+  Specify certain users within a Telegram group to monitor only their messages. Target posts from users known for making accurate calls to optimize your trading strategy.
+
+- **Keyword Functionality:**  
+  Define mandatory and prohibited keywords within messages to control the forwarding of token addresses to your buy bot, enhancing the bot's precision and effectiveness.
+
+- **Cross-Chain Compatibility:**  
+  IVEY BOT supports all major blockchain networks, ensuring broad applicability across different trading ecosystems.
+
+### 🌟 **Why Choose IVEY BOT?**
+
+IVEY BOT empowers you with advanced automation tools to enhance your on-chain trading activities. Its seamless integration with your Telegram account, combined with its powerful features, ensures that you can monitor and act on trading opportunities swiftly and efficiently.
+
+
 
 ![IVEYbotCLI](https://github.com/user-attachments/assets/a1f60615-a1d3-49eb-b74c-a7392cfcde6e)
 <br><br>
