@@ -23,15 +23,11 @@
 
 ---
 
-🤖 Recommended Telegram Bots with Auto Trade Funtction - Perfect for IVEY Bot:</h1>
+🤖 Recommended Telegram Bot with Auto Trade Funtction - Perfect for IVEY Bot:</h1>
 
 ### **NOVA** *(The Fastest Bot Currently)*
 
 [🔗 **Start NOVA Bot**](https://t.me/TradeonNovaBot?start=r-8PPF31)
-
-### **Trojan**
-
-[🔗 **Start Trojan Bot**](https://t.me/helenus_trojanbot?start=r-zero_0x_eth)
 
 ---
 
@@ -40,7 +36,6 @@
 I would greatly appreciate it if you use my referral links when starting the bots. Not only will you benefit from reduced trading fees, but you'll also be supporting the development and maintenance of these tools.
 
 - **NOVA Referral Link:** [Trade on NOVA](https://t.me/TradeonNovaBot?start=r-8PPF31)
-- **Trojan Referral Link:** [Start Trojan](https://t.me/helenus_trojanbot?start=r-zero_0x_eth)
 
 Thank you for your support! 🙏
 
