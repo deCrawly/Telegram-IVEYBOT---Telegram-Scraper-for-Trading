@@ -116,6 +116,11 @@ IVEY BOT empowers you with advanced automation tools to enhance your on-chain tr
 
 ---
 
+![11111111](https://github.com/user-attachments/assets/43270e1c-8982-4804-9b29-d21990993059)
+
+
+---
+
 ## IVEY Bot - User Guide
 
 ### 🎥 **IVEY Bot YouTube Channel**
