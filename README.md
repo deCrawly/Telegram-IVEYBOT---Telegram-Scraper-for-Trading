@@ -5,11 +5,11 @@
 
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
----
+
 
 [**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
 
----
+
 
 ## 📈 Improvements
 
@@ -151,7 +151,6 @@ IVEY BOT empowers you with advanced automation tools to enhance your on-chain tr
 
 [**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
 
----
 
 2. **Set Up the Application:**
    - **Create a New Directory:** Choose a location on your computer and create a new folder.
