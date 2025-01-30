@@ -5,6 +5,12 @@
 
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
 
+---
+
+[**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
+
+---
+
 ## 📈 Improvements
 
 ### **01/24/2025 - Version 1.20**
@@ -118,10 +124,34 @@ IVEY BOT empowers you with advanced automation tools to enhance your on-chain tr
 
 ---
 
+### 📋 **What You Need to Start with IVEY**
+
+1. **Visit Telegram API Portal:**
+   - Go to [https://my.telegram.org](https://my.telegram.org) to obtain your `api_id` and `api_hash` for your personal Telegram user API.
+
+2. **Log In to Telegram API:**
+   - **Enter Your Phone Number:** Provide the phone number associated with your Telegram account.
+   - **Receive Access Code:** Click **Next**. You will receive an access code in a message from the official Telegram account to your Telegram app.
+   - **Use the Access Code to Log In.**
+
+3. **Create a New Application:**
+   - After logging in, select **API Development Tools**.
+   - **Fill Out the Form:**
+     - **App Title:** *(Anything can go here)*
+     - **Short Name:** *(Anything can go here)*
+     - **URL:** [https://my.telegram.org](https://my.telegram.org)
+     - **Platform:** Desktop
+   - **Create Application:** Click **Create Application**. You will receive an `Api Id` and an `Api Hash`. **Save them securely!**
+
+---
+
 ### 🚀 **Getting Started**
 
 1. **Download IVEYbot:**
-   - Download the `IVEYbot.zip` from [GitHub](https://github.com/your-repository/IVEYbot.zip) *(Replace with your actual GitHub link)*.
+
+[**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
+
+---
 
 2. **Set Up the Application:**
    - **Create a New Directory:** Choose a location on your computer and create a new folder.
@@ -223,6 +253,12 @@ If you have entity problems check this
 ![entity problem](https://github.com/user-attachments/assets/49b07329-fad0-4bb0-993b-6dec1411dd1a)
 
 <br><br>
+
+---
+
+[**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
+
+---
 
 If you have questions you can contact me<br><br>
 
