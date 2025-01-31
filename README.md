@@ -4,8 +4,10 @@
 </h1>
 
 ![photo_2024-08-28_22-07-43](https://github.com/user-attachments/assets/e1a9aedd-a065-40fb-8670-a43fb1ddd309)
+---
+![how it works](https://github.com/user-attachments/assets/7e983d43-b7fa-4564-b59d-534ecf5836b8)
 
-
+---
 
 [**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
 
