@@ -48,7 +48,7 @@ I would greatly appreciate it if you use my referral links when starting the bot
 Thank you for your support! 🙏
 
 
-[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
+[IVEY Bot youtube channel](https://www.youtube.com/watch?v=AU_-1hfaotg)
 
 ---
 
@@ -127,7 +127,7 @@ IVEY BOT empowers you with advanced automation tools to enhance your on-chain tr
 
 ### 🎥 **IVEY Bot YouTube Channel**
 
-[Visit our YouTube Channel](https://www.youtube.com/channel/your-channel-link) *(Replace with your actual YouTube channel link)*
+[Visit our YouTube Channel](https://www.youtube.com/watch?v=AU_-1hfaotg) 
 
 ---
 
@@ -272,4 +272,4 @@ Telegram: https://t.me/zero_0x_eth<br><br>
 
 Twitter: https://x.com/radiomanDev<br><br>
 
-[IVEY Bot youtube channel](https://www.youtube.com/@IVEYbot)
+[IVEY Bot youtube channel](https://www.youtube.com/watch?v=AU_-1hfaotg)
