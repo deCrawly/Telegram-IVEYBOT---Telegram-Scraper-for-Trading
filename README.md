@@ -15,6 +15,14 @@
 
 ## 📈 Improvements
 
+### **02/05/2025 - Version 1.21**
+
+**Solved dexscreener and photon link issue:**
+
+- 🆕 **Get CA from LP address** Dexscreener links often do not contain a mint address, only the LP address—problem solved. 
+- 🆕 **extraction" Options:** Added more new regex extraction patterns.
+- 🛠️ **Menu now fully in English.**
+
 ### **01/24/2025 - Version 1.20**
 
 **New Features:**
