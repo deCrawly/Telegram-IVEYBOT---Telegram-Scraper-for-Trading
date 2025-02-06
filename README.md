@@ -21,7 +21,6 @@
 
 - 🆕 **Get CA from LP address** Dexscreener links often do not contain a mint address, only the LP address—problem solved. 
 - 🆕 **extraction" Options:** Added more new regex extraction patterns.
-- 🛠️ **Menu now fully in English.**
 
 ### **01/24/2025 - Version 1.20**
 
@@ -67,13 +66,13 @@ Thank you for your support! 🙏
 ### 🚀 **Key Features**
 
 - **Real-Time Monitoring:**  
-  Monitor unlimited Telegram channels and groups simultaneously. IVEY BOT detects token addresses in posts, extracts them instantly, and forwards them to your desired destinations.
+  Monitor unlimited Telegram channels and groups simultaneously. IVEY BOT detects token addresses in posts, extracts them instantly, and forwards them to your desired destinations (e.g. Buybot with Autobuy function).
 
 - **Conditional Forwarding:**  
   Utilize the keyword function to set specific conditions for forwarding. Define when the bot should or shouldn't forward a token address based on the presence or absence of certain keywords.
 
 - **Rapid Processing:**  
-  The extraction and forwarding process occurs in just half a second, ensuring you stay ahead in the fast-paced trading environment.
+  The extraction and forwarding process occurs in just 240ms, ensuring you stay ahead in the fast-paced trading environment.
 
 - **Versatile Link Support:**  
   Extract token addresses from any type of link, including Solscan, Dexscreener, Photon, and more. The bot forwards only the extracted address to your specified destination.
@@ -104,7 +103,7 @@ Thank you for your support! 🙏
   Featuring a built-in database, IVEY BOT logs every forwarded address and checks for duplicates before forwarding, ensuring efficient and organized data management.
 
 - **No Private Key Required:**  
-  IVEY BOT does not require a private key since it doesn't execute any buy orders directly. It simply forwards token addresses to other bots like NOVA; Trojan or BullX.
+  IVEY BOT does not require a private key since it doesn't execute any buy orders directly. It simply forwards token addresses to other bots like NOVA; Trojan or Bonkbot.
 
 - **Selective User Monitoring:**  
   Specify certain users within a Telegram group to monitor only their messages. Target posts from users known for making accurate calls to optimize your trading strategy.
@@ -184,6 +183,7 @@ IVEY BOT empowers you with advanced automation tools to enhance your on-chain tr
    - **API ID**
    - **API Hash**
    - **Phone Number**
+  IMPORTANT: The data is required to establish a connection to your user Telegram API and is only stored locally on your computer and is not transmitted.
 
 3. **Generate and Save Password:**
    - The system will generate a password for you. **Save this password safely**.
@@ -216,7 +216,7 @@ Once logged in, you will see the main menu with the following options:
 - **Remove Channel or Group:** Stop monitoring an existing channel or group.
 - **Monitor Specific Users in a Group:** Select specific users within a group to monitor.
 - **Remove Specific Users:** Stop monitoring selected users.
-- **Set Bot or Channel for Forwarding:** Choose up to **2 buy bots** where token addresses will be forwarded.
+- **Set Bot or Channel for Forwarding:** Choose up to **3 buy bots** where token addresses will be forwarded.
 - **Define Keywords:** Specify keywords that must appear in the same message as the token address for it to be forwarded to your buy bot.
 - **Activate/Deactivate Keywords:** Enable or disable keyword tracking for specific channels.
 - **Start Bot:** Launch the bot to begin monitoring the selected channels and users.
@@ -253,18 +253,22 @@ Once logged in, you will see the main menu with the following options:
 
 ---
 
-**Configuration of config.json - forward to 2 buybots**<br><br>
-Use Visual Studio Codes to open .json files (freeware)
-https://code.visualstudio.com/
+*Setup your config.json - example with forwarding to 2 buybots**<br><br>
 
-![grafik](https://github.com/user-attachments/assets/702fd40f-e21e-460e-a101-859e0a3e17bf)
+![1111](https://github.com/user-attachments/assets/856622a5-e992-4093-9191-bb6873565077)
+
 
 ---
 <br><br>
 
-If you have entity problems check this
+**If you have entity problems:**
 
-![entity problem](https://github.com/user-attachments/assets/49b07329-fad0-4bb0-993b-6dec1411dd1a)
+Reason 1: You have channel or bots IDs in your config.json that you are not joined with your telegram account.
+
+Reason 2: Bots sometimes need to be restarted for the userapi before they are recognized, see below.
+
+![entitiy problems](https://github.com/user-attachments/assets/a3acbd9e-7803-476d-aecc-73276f0b0ed5)
+
 
 <br><br>
 
@@ -273,6 +277,9 @@ If you have entity problems check this
 [**Download Latest Version 1.21**](https://github.com/deCrawly/IVEY-BOT-Telegram-Scraper-for-DEX-Trading/blob/main/IVEY%20Bot%201.21.zip)
 
 ---
+
+Use Visual Studio Codes to open .json files (freeware)
+https://code.visualstudio.com/
 
 If you have questions you can contact me<br><br>
 
